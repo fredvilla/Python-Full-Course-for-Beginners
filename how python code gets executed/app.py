@@ -1,4 +1,4 @@
 print("Frederick Villa")
 print('0----')
 print(' ||||')
-print('*' * 9)
+print('*' * 0)
