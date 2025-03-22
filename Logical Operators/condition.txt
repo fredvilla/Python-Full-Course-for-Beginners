@@ -1,0 +1,9 @@
+if applicant has high income AND good credit
+    Eligible for loan
+
+if applicant has good credit AND doesn't have a criminal record
+    Eligible for loan
+
+AND: both operators should be True
+OR: at least one should be True
+NOT: inverted any boolean we give it !True = False
